@@ -45,7 +45,7 @@ EyeShots empowers users, particularly the visually impaired, to control their An
 ## Demo Video and Screenshots
 
 ### Version 1 Demo Video
-[Watch the Version 1 Demo Video]()
+[Watch the Version 1 Demo Video](https://drive.google.com/file/d/1K1bnd4lwad5g0FcZp30XFp3MJaESaXRz/view?usp=sharing)
 
 ### Version 2 Screenshots
 ![Screenshot of Version 2 - Navigation Drawer](https://github.com/user-attachments/assets/d70a0013-1fc8-4ab1-bbd3-f320ab4aaf2b)
