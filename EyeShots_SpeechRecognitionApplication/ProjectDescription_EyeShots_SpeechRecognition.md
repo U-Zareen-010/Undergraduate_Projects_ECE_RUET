@@ -51,3 +51,9 @@ EyeShots empowers users, particularly the visually impaired, to control their An
 ![Screenshot of Version 2 - Navigation Drawer](https://github.com/user-attachments/assets/d70a0013-1fc8-4ab1-bbd3-f320ab4aaf2b)
 ![Screenshot of Version 2 - Speaker Mode](https://github.com/user-attachments/assets/7788837d-815d-488f-a2df-caf90a05caa7)
 ![Screenshot of Version 2 - Normal Mode](https://github.com/user-attachments/assets/8d9d1586-ca90-4959-ae1a-12951d59d4d2)
+
+## License
+
+This project is licensed under the [CC BY-NC-ND 4.0 License](https://creativecommons.org/licenses/by-nc-nd/4.0/). You are free to share the content with proper attribution for non-commercial purposes. Modifying or redistributing without permission is prohibited.
+
+**Disclaimer**: Unauthorized copying or use of this project or its contents without prior permission is prohibited.
